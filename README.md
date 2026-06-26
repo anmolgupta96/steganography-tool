@@ -18,3 +18,16 @@ and double click to run!
 Anmol Gupta
 Government Polytechnic
 Cybersecurity Internship 2026
+
+## Privacy Statement
+
+This application does not collect, store, 
+transmit, or share any personal information.
+
+- No user data is collected
+- No internet connection required
+- All processing is done locally on your device
+- No files are sent to any server
+- Passwords are not stored anywhere
+
+This tool is completely safe and private.
